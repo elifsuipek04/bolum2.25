@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bolum2.25\bolum2.25\bin\Debug\bolum2.25.exe.config
+C:\Users\User\source\repos\bolum2.25\bolum2.25\bin\Debug\bolum2.25.exe
+C:\Users\User\source\repos\bolum2.25\bolum2.25\bin\Debug\bolum2.25.pdb
+C:\Users\User\source\repos\bolum2.25\bolum2.25\obj\Debug\bolum2.25.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bolum2.25\bolum2.25\obj\Debug\bolum2.25.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bolum2.25\bolum2.25\obj\Debug\bolum2._25.Form1.resources
+C:\Users\User\source\repos\bolum2.25\bolum2.25\obj\Debug\bolum2._25.Properties.Resources.resources
+C:\Users\User\source\repos\bolum2.25\bolum2.25\obj\Debug\bolum2.25.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bolum2.25\bolum2.25\obj\Debug\bolum2.25.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bolum2.25\bolum2.25\obj\Debug\bolum2.25.exe
+C:\Users\User\source\repos\bolum2.25\bolum2.25\obj\Debug\bolum2.25.pdb
